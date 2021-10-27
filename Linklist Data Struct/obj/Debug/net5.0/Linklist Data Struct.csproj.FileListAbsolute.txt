@@ -1,0 +1,16 @@
+C:\Users\VISHAL\source\repos\Linklist Data Struct\Linklist Data Struct\bin\Debug\net5.0\Linklist Data Struct.exe
+C:\Users\VISHAL\source\repos\Linklist Data Struct\Linklist Data Struct\bin\Debug\net5.0\Linklist Data Struct.deps.json
+C:\Users\VISHAL\source\repos\Linklist Data Struct\Linklist Data Struct\bin\Debug\net5.0\Linklist Data Struct.runtimeconfig.json
+C:\Users\VISHAL\source\repos\Linklist Data Struct\Linklist Data Struct\bin\Debug\net5.0\Linklist Data Struct.runtimeconfig.dev.json
+C:\Users\VISHAL\source\repos\Linklist Data Struct\Linklist Data Struct\bin\Debug\net5.0\Linklist Data Struct.dll
+C:\Users\VISHAL\source\repos\Linklist Data Struct\Linklist Data Struct\bin\Debug\net5.0\ref\Linklist Data Struct.dll
+C:\Users\VISHAL\source\repos\Linklist Data Struct\Linklist Data Struct\bin\Debug\net5.0\Linklist Data Struct.pdb
+C:\Users\VISHAL\source\repos\Linklist Data Struct\Linklist Data Struct\obj\Debug\net5.0\Linklist Data Struct.csproj.AssemblyReference.cache
+C:\Users\VISHAL\source\repos\Linklist Data Struct\Linklist Data Struct\obj\Debug\net5.0\Linklist Data Struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VISHAL\source\repos\Linklist Data Struct\Linklist Data Struct\obj\Debug\net5.0\Linklist Data Struct.AssemblyInfoInputs.cache
+C:\Users\VISHAL\source\repos\Linklist Data Struct\Linklist Data Struct\obj\Debug\net5.0\Linklist Data Struct.AssemblyInfo.cs
+C:\Users\VISHAL\source\repos\Linklist Data Struct\Linklist Data Struct\obj\Debug\net5.0\Linklist Data Struct.csproj.CoreCompileInputs.cache
+C:\Users\VISHAL\source\repos\Linklist Data Struct\Linklist Data Struct\obj\Debug\net5.0\Linklist Data Struct.dll
+C:\Users\VISHAL\source\repos\Linklist Data Struct\Linklist Data Struct\obj\Debug\net5.0\ref\Linklist Data Struct.dll
+C:\Users\VISHAL\source\repos\Linklist Data Struct\Linklist Data Struct\obj\Debug\net5.0\Linklist Data Struct.pdb
+C:\Users\VISHAL\source\repos\Linklist Data Struct\Linklist Data Struct\obj\Debug\net5.0\Linklist Data Struct.genruntimeconfig.cache
