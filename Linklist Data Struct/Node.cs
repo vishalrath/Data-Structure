@@ -12,7 +12,7 @@ namespace Linklist_Data_Struct
         public Node next;
         internal object prev;
 
-        public Node(int data)
+        public Node(int data)  //constructer parameteris
         {
             this.data = data;
             next = null;
